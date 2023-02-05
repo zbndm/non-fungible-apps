@@ -1,0 +1,14 @@
+node_modules
+.env
+
+# hardhat
+cache
+artifacts
+deployments/localhost
+
+# NPM
+package-lock.json
+
+# Foundry
+out
+forge-cache
